@@ -1,0 +1,12 @@
+Package: genDynamic
+Title: Generate Dynamic Networks and Simulate Games
+Version: 1.0.0
+Authors@R: 
+    person("Ling", "YUAN", , "LingYUAN1201@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8097-3598"))
+Description: This package provides a function to generate dynamic networks and simulate various types of games on the network.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: igraph
